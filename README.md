@@ -1,5 +1,5 @@
 SimpleTimesTables is exactly as it's name suggests. You simply use this to
-multiply numbers by 2 to 12. Sometime we forget the simple things.
+multiply numbers by 2 to 12. Have you ever been in a hurry and had to pull out your calculator to calclulate a simple 9 x 7. Yea, sometimes we forget the simple things.
 
 Simple Usage >
 
