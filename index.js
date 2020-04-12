@@ -1,7 +1,7 @@
 class TimesTable {
 
      static double(num) {
-          return num * num;
+          return num * 2;
      }
 
      static triple(num) {
